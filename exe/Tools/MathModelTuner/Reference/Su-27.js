@@ -1,0 +1,5 @@
+
+{
+	"AoA" : null,
+	"TurnRate" : null
+}

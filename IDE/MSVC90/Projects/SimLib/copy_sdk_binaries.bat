@@ -1,0 +1,1 @@
+xcopy /Y /D ..\..\..\..\..\..\SDK\bin\MSVC90\%1\lua*.dll ..\..\..\..\bin\MSVC90\%1\*.*

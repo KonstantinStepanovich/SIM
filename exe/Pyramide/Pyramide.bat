@@ -1,0 +1,1 @@
+start /D%SimPath%\exe %SimPath%\bin\MSVC90\Release\Launcher.exe /scenery="Pyramide/Pyramide.lua" /system="ShapeGen" /system="GraphicsOSG" /system="PhysicsODE"

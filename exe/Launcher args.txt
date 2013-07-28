@@ -1,0 +1,3 @@
+/scenery="Pyramide/Pyramide.lua" /system="ShapeGen" /system="GraphicsOSG" /system="PhysicsODE" /system="InputOIS"
+/scenery="Interceptor/Interceptor.lua" /system="ShapeGen" /system="GraphicsOSG" /system="PhysicsODE" /system="InputOIS"
+/scenery="FlightModel/Scenes/Airplane.lua" /system="ShapeGen" /system="GraphicsOSG" /system="PhysicsODE" /system="InputOIS"

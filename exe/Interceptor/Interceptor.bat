@@ -1,0 +1,1 @@
+start /D%SimPath%\exe %SimPath%\bin\MSVC90\Release\Launcher.exe /scenery="Interceptor/Interceptor.lua" /system="ShapeGen" /system="GraphicsOSG" /system="PhysicsODE"
